@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://wwwwillust.github.io/csb-vnhvl4/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://wwwwillust.github.io/csb-vnhvl4/static/js/main.1f775e10.chunk.js",
-    "main.js.map": "https://wwwwillust.github.io/csb-vnhvl4/static/js/main.1f775e10.chunk.js.map",
+    "main.js": "https://wwwwillust.github.io/csb-vnhvl4/static/js/main.fa14b7dd.chunk.js",
+    "main.js.map": "https://wwwwillust.github.io/csb-vnhvl4/static/js/main.fa14b7dd.chunk.js.map",
     "runtime-main.js": "https://wwwwillust.github.io/csb-vnhvl4/static/js/runtime-main.1449428b.js",
     "runtime-main.js.map": "https://wwwwillust.github.io/csb-vnhvl4/static/js/runtime-main.1449428b.js.map",
     "static/js/2.b99aae93.chunk.js": "https://wwwwillust.github.io/csb-vnhvl4/static/js/2.b99aae93.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1449428b.js",
     "static/js/2.b99aae93.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.1f775e10.chunk.js"
+    "static/js/main.fa14b7dd.chunk.js"
   ]
 }
